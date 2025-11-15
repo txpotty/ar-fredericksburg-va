@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Ant &amp; Rodent Pest Control Fredericksburg</title>
+						<title>Locations Sitemap - Ant &amp; Rodent Pest Control Ocala</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Ant &amp; Rodent Pest Control Fredericksburg</title>
+						<title>XML Sitemap - Ant &amp; Rodent Pest Control Ocala</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
